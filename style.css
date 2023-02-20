@@ -3,7 +3,6 @@
     padding:0;
     box-sizing: border-box;
     font-family: sans-serif;
-    overflow-x:hidden;
 }
 header{
     width: 100%;
@@ -288,6 +287,7 @@ button a{
         top: 80px;
         white-space: nowrap;
         left: 20px;
+        overflow-x:hidden;
         
 
     }
